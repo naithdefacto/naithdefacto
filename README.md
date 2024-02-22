@@ -1,6 +1,3 @@
-
-<img align="right" width="270" alt="realnaith" src="https://imgur.com/y1iqwAM.png"/>
-
 <h2>About me</h2>
 
 Hi, I'm Nenad Petrovic, also known as  **naithdefacto**.
